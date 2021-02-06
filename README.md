@@ -1,5 +1,10 @@
+# MAIS Hacks 2020 Website
+
+This single page React site was built for the virtual first edition of [McGill AI's](https://www.mcgillai.com/) hackathon MAIS Hacks. It can be viewed at [https://maishacks.com](https://maishacks.com).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Styling Notes
 Theme Colours:
 Dark blue: #0C113D
 Medium blue: #647CBD
@@ -17,7 +22,6 @@ Background: #38227D
 bbc.com: 600px, 1008px, 1280px
 
 implementai: 640px, 1025px, max-width
-
 
 
 ## Available Scripts
