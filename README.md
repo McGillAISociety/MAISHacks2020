@@ -65,4 +65,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 Deployment is a little finnicky.
 
+Make sure you have `yarn add gh-pages`.
 First, run `yarn run deploy` in the root directory of the repository. This will create an optimized build of the site and push it to the remote `gh-pages` branch. For some reason, this also overwrites the `Custom domain` we have set for this project. You'll then need to go to this project's [Settings page](https://github.com/McGillAISociety/MAISHacks2020/settings), scroll to the Github pages section, and fill in the `Custom domain` text box (which is now empty) with `maishacks.com`. Do NOT prepend `maishacks.com` with `www.` or `https://`. Your new site should now be deployed!
